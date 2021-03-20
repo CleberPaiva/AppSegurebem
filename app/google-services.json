@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111462152031",
+    "project_id": "segurebem-monitoramento",
+    "storage_bucket": "segurebem-monitoramento.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111462152031:android:a504878624dfa79305e8ea",
+        "android_client_info": {
+          "package_name": "com.cleberpaiva.segurebem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111462152031-avhsk3bqin0a10m942kf5nme14e178bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCplajBxCybnBPnP1j8yS784B_tW4YSDfg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111462152031-avhsk3bqin0a10m942kf5nme14e178bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
